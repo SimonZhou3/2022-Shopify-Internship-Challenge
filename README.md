@@ -30,8 +30,8 @@ After Node.js has been installed, follow these steps:
 5. To run the backend, enter `npm start`
 6. Navigate to the console tab , enter  `cd client` to navigate to the client code.
 7. Install the dependencies by entering `npm install`
-8.To run the frontend, enter `npm start`
-9.At this time, a virtual browser will pop up. If the browser does not automatically redirect you to the frontend, then maunally access to `localhost:3000`
+8. To run the frontend, enter `npm start`
+9. At this time, a virtual browser will pop up. If the browser does not automatically redirect you to the frontend, then maunally access to `localhost:3000`
 
 ## Usage
 
