@@ -23,15 +23,15 @@ After Node.js has been installed, follow these steps:
 ### For Replit:
 1. Go to: `https://replit.com/join/zzixxozqak-simonzhou98`
 2. I have already inserted the API KEY on the replit however, if this is not the case, then on the side tab of replit, navigate to the secrets tab and add the key:
-3. > Key: OPEN_WEATHER_API_KEY
-4. > Value:***************
-5. On the bottom right of replit, go to the shell tab and navigate to the server file by entering `cd 2022-shopify-production-engineer-challenge/server`
-6. Install the dependencies by entering `npm install`
-7. To run the backend, enter `npm start`
-8. Navigate to the console tab , enter  `cd 2022-shopify-production-engineer-challenge/client` to navigate to the client code.
-9. Install the dependencies by entering `npm install`
-10. To run the frontend, enter `npm start`
-11. At this time, a virtual browser will pop up. If the browser does not automatically redirect you to the frontend, then maunally access to `localhost:3000`
+ > Key: OPEN_WEATHER_API_KEY
+ > Value:***************
+3. On the bottom right of replit, go to the shell tab and navigate to the server file by entering `cd 2022-shopify-production-engineer-challenge/server`
+4. Install the dependencies by entering `npm install`
+5. To run the backend, enter `npm start`
+6. Navigate to the console tab , enter  `cd 2022-shopify-production-engineer-challenge/client` to navigate to the client code.
+7. Install the dependencies by entering `npm install`
+8.To run the frontend, enter `npm start`
+9.At this time, a virtual browser will pop up. If the browser does not automatically redirect you to the frontend, then maunally access to `localhost:3000`
 
 ## Usage
 
