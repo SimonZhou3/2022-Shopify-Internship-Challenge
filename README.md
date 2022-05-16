@@ -21,7 +21,7 @@ After Node.js has been installed, follow these steps:
 8. If React did not automatically open the web application, then on any browser, navigate to: `localhost:3000`
 
 ### For Replit:
-1. Go to: `https://replit.com/join/zzixxozqak-simonzhou98`
+1. Go to the replit link!
 2. I have already inserted the API KEY on the replit however, if this is not the case, then on the side tab of replit, navigate to the secrets tab and add the key:
  > Key: OPEN_WEATHER_API_KEY
  > Value:***************
